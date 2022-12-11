@@ -1,6 +1,6 @@
 # check24QAchallenge
 
-Pre-settings:
+# Pre-settings:
 
 1. Chrome Browser installed
 2. Node.js installed
